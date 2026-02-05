@@ -1,2 +1,5 @@
-# VMU-VeinMinerUltimate-
-Please refer to the README.md file for more information.
+# VMU (VeinMinerUltimate)
+
+# More information on Modrinth.
+
+https://modrinth.com/plugin/vmu-(veinminerultimate)
