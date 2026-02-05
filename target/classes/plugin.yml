@@ -1,0 +1,15 @@
+name: VeinMinerUltimate
+version: 1.6
+main: me.GamingMaster0211.VeinMinerUltimate.VeinMinerUltimate
+api-version: 1.16
+
+commands:
+  vmu:
+    aliases: [veinminerultimate]
+    description: VeinMinerUltimate main command.
+    usage: /vmu [on|off|info|version|usage]
+
+permissions:
+  veinminer.use:
+    description: Allows use of VeinMinerUltimate.
+    default: true
