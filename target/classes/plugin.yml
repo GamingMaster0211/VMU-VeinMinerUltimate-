@@ -1,0 +1,13 @@
+name: VeinMinerUltimate
+version: 1.4
+main: me.GamingMaster0211.VeinMinerUltimate.VeinMinerUltimate
+api-version: 1.16
+
+commands:
+  vmu:
+    aliases: [veinminerultimate]
+    description: Toggle VeinMiner On & Off.
+
+permissions:
+  veinminer.use:
+    default: true
